@@ -1,0 +1,55 @@
+<!-- res/values-en/strings.xml -->
+<resources>
+    <string name="app_name">SignLanguage</string>
+    <string name="aprende_lenguaje_de_se_as">Learn sign language</string>
+    <string name="abecedario_de_se_as">Sign alphabet</string>
+    <string name="bienvenido_escoge_la_opcion_que_deseas">Welcome, choose the option you want</string>
+    <string name="lenguaje_de_se_as">Sign Language</string>
+    <string name="Bienvenida">Welcome, choose the option you want</string>
+    <string name="lenguaje_se_se_as">Sign Language</string>
+
+    <string name="comida1">To order dinner.</string>
+    <string name="comida2">To order food.</string>
+    <string name="comida3">To order breakfast.</string>
+    <string name="comida4">To order a snack.</string>
+
+    <string name="semana1">Monday.</string>
+    <string name="semana2">Tuesday.</string>
+    <string name="semana3">Wednesday.</string>
+    <string name="semana4">Thursday.</string>
+    <string name="semana5">Friday.</string>
+    <string name="semana6">Saturday.</string>
+    <string name="semana7">Sunday.</string>
+
+    <string name="mes1">0</string>
+    <string name="mes2">January</string>
+    <string name="mes3">February</string>
+    <string name="mes4">March</string>
+    <string name="mes5">April</string>
+    <string name="mes6">May</string>
+    <string name="mes7">June</string>
+    <string name="mes8">July</string>
+    <string name="mes9">August</string>
+    <string name="mes10">September</string>
+    <string name="mes11">October</string>
+    <string name="mes12">November</string>
+    <string name="mes13">December</string>
+
+    <string name="Carruce">Welcome to the sign alphabet carousel. View the images and practice them.</string>
+    <string name="home">Home</string>
+    <string name="favoritos">Favorites</string>
+    <string name="busqueda">Search</string>
+    <string name="retroceder">Back</string>
+    <string name="siguiente">Next</string>
+    <string name="comida">Food</string>
+    <string name="meses_del_a_o">Months of the Year</string>
+    <string name="semana">Week</string>
+
+    <string name="bienvenidos_a_favoritos">Welcome to Favorites</string>
+    <string name="no_hay_favoritos">No favorites</string>
+    <string name="search">Search</string>
+    <string name="qu_deseas_buscar">What would you like to search for?</string>
+
+
+
+</resources>
